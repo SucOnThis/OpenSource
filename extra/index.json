@@ -1489,12 +1489,12 @@
       		"type": "custom"
     	},
 		{
-      		"ids": [ "suc-logo" ],
+      		"ids": [ "suc", "suc-logo", "suconthis" ],
       		"names": {
         		"en-US": "Suc",
 				"ja-JP": "サク"
       		},
-      		"icon": "suc-logo",
+      		"icon": "suc",
       		"type": "charter"
     	},
 		{
